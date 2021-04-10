@@ -1,0 +1,1 @@
+<?php header( 'Location: /final-project-lifting-planner.html' ) ;  ?>
